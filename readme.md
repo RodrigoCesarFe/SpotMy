@@ -1,0 +1,1 @@
+Estudo de javascript, apenas para fins de aprendizado
